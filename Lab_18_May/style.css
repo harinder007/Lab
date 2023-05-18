@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    font-size: 14px;
+    padding: 25px;
+}
+*{
+    margin:center;
+    padding: 0;
+    box-sizing: border-box;
+}
